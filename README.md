@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/marvinhq/stack.png?label=ready&title=Ready)](https://waffle.io/marvinhq/stack)
 MarvinHQ Stack
 =====
 
